@@ -19,8 +19,6 @@ ribbon:
   ConnectTimeout: 5000
 
 spring:
-  rabbitmq:
-    host: rabbitmq
   sleuth:
     sampler:
       percentage: 1
